@@ -1,2 +1,2 @@
-# nk-model-c
-NK Model in C
+# nk-model-c++
+NK Model in C++
